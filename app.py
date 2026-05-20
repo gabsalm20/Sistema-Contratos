@@ -652,7 +652,7 @@ if menu == "📊  Análise de Contrato":
                 ))
                 fig5.update_layout(
                     title=dict(text="Prazo de Resposta (dias)",font=dict(size=11,color="#4a80aa")),
-                    xaxis=dict(showgrid=False,title="dias",titlefont=dict(size=9)),
+                    xaxis=dict(showgrid=False, title=dict(text="dias", font=dict(size=9))),
                     yaxis=dict(showgrid=False),
                     height=H, **PLOTLY_BASE)
                 st.plotly_chart(fig5, use_container_width=True)
