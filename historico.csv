@@ -1,0 +1,67 @@
+Solicitação,Obra,Solicitante,Data,Referência,Descrição,Unidade de medida,Quantidade,Valor do material,Total material,Valor mão de obra,Total mão de obra,Total,Contrato,Apropriação de obra,Observação,Status,Responsável,Prazo,Observação Interna,Situação
+2837,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,Estrutura - Alojamento ,mes,13,0,0,0,0,0,,4 - 03.002.001.014 - Estrutura - Alojamento  - 100.0%,,,,,,
+2840,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,"MEIO FIO DE CONCRETO, TIPO MFC 05 (DNIT) - (80x30x12x09CM)",und,20,0,0,0,0,0,,4 - 04.001.001.005 - Assentamento de meio fio pré-moldado de travamento - 100.0%,Alojamento para colaboradores da fôrma.,,,,,
+2840,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.002,PLACA PREMOLDADA 40 (L)X 60 (C) X 6CM (ESPESSURA),und,25,0,0,0,0,0,,4 - 04.001.001.007 - Piso em lajota (Trilha das rodas) - 100.0%,Alojamento para colaboradores da fôrma.,,,,,
+2840,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.003,CHAVE T PARA CONE,und,3,0,0,0,0,0,,4 - 03.002.001.015 - Estrutura - Ferramentas - 100.0%,Alojamento para colaboradores da fôrma.,,,,,
+2841,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,Instalação de Hidrossanitária - Coluna e Aéreo ,apto,512,0,0,0,0,0,,4 - 03.007.001.005 - Hidraúlica - Colunas de esgoto - 100.0%,"SOLICITAÇÃO DE SERVIÇO DE SERRALHERIA: 
+-20 FORMAS PARA MEIO-FIO (0,12 X 0,30 X 0,10 X 1,00M)
+-25 FORMAS PARA PLACA DE GARAGEM (0,60 X 0,40 X 0,05M)
+- CHAVE PARA CONE TIPO T.",,,,,
+2841,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.002,Instalação Hidrossanitária - Barrilete,bloco,8,0,0,0,0,0,,4 - 03.007.001.009 - Hidraúlica - Coluna de distribuição de água fria - Bloco - 100.0%,"SOLICITAÇÃO DE SERVIÇO DE SERRALHERIA: 
+-20 FORMAS PARA MEIO-FIO (0,12 X 0,30 X 0,10 X 1,00M)
+-25 FORMAS PARA PLACA DE GARAGEM (0,60 X 0,40 X 0,05M)
+- CHAVE PARA CONE TIPO T.",,,,,
+2841,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.003,Instalação Hidrossanitária - Prumada Água fria e quente/ Pex hall,und,64,0,0,0,0,0,,4 - 03.007.001.008 - Hidraúlica - PEX Ramal de água fria no hall - 100.0%,"SOLICITAÇÃO DE SERVIÇO DE SERRALHERIA: 
+-20 FORMAS PARA MEIO-FIO (0,12 X 0,30 X 0,10 X 1,00M)
+-25 FORMAS PARA PLACA DE GARAGEM (0,60 X 0,40 X 0,05M)
+- CHAVE PARA CONE TIPO T.",,,,,
+2841,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.004,Montagem e Fixação do Chassi do PEX dos Banheiros e Coz,apto,512,0,0,0,0,0,,4 - 03.007.001.007 - Hidraúlica - PEX Ramal de água fria - 100.0%,"SOLICITAÇÃO DE SERVIÇO DE SERRALHERIA: 
+-20 FORMAS PARA MEIO-FIO (0,12 X 0,30 X 0,10 X 1,00M)
+-25 FORMAS PARA PLACA DE GARAGEM (0,60 X 0,40 X 0,05M)
+- CHAVE PARA CONE TIPO T.",,,,,
+2841,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.005,Instalação Hidrossanitária - Prumada Água fria e quente/ Pex,apto,512,0,0,0,0,0,,4 - 03.007.001.007 - Hidraúlica - PEX Ramal de água fria - 100.0%,"SOLICITAÇÃO DE SERVIÇO DE SERRALHERIA: 
+-20 FORMAS PARA MEIO-FIO (0,12 X 0,30 X 0,10 X 1,00M)
+-25 FORMAS PARA PLACA DE GARAGEM (0,60 X 0,40 X 0,05M)
+- CHAVE PARA CONE TIPO T.",,,,,
+2841,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.006,Instalaçao de ramais de esgoto térreo (rebaixo) ,apto,64,0,0,0,0,0,,4 - 03.007.001.002 - Hidraúlica - Ramais de esgoto - 100.0%,"SOLICITAÇÃO DE SERVIÇO DE SERRALHERIA: 
+-20 FORMAS PARA MEIO-FIO (0,12 X 0,30 X 0,10 X 1,00M)
+-25 FORMAS PARA PLACA DE GARAGEM (0,60 X 0,40 X 0,05M)
+- CHAVE PARA CONE TIPO T.",,,,,
+2841,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.007,Montagem de Registro do Chassi do PEX dos Banheiros e Cozinh,apto,512,0,0,0,0,0,,4 - 03.007.001.007 - Hidraúlica - PEX Ramal de água fria - 100.0%,"SOLICITAÇÃO DE SERVIÇO DE SERRALHERIA: 
+-20 FORMAS PARA MEIO-FIO (0,12 X 0,30 X 0,10 X 1,00M)
+-25 FORMAS PARA PLACA DE GARAGEM (0,60 X 0,40 X 0,05M)
+- CHAVE PARA CONE TIPO T.",,,,,
+2842,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,"Apartamentos - Execução de assentamento cerâmico (piso, parede, rodapé, soleira, divbox, rejunte e limpeza)",apto,512,0,0,0,0,0,,4 - 07.000.004.003 - Piso em cerâmica - Material e aplicação - 70.1171875%,"NSTALAÇÕES HIDRO BLOCO
+
+ INSTALÇÕES HIDROSSANITÁRIAS BLOCOS
+COLUNA + RAMAIS : DE ESGOTO, ÁGUA PLUVIAL",,,,,
+2842,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.002,"Hall - Execução de assentamento cerâmico (piso, rodapé, soleira, rejunte e limpeza)",und,64,0,0,0,0,0,,4 - 07.002.007.003 - Piso em cerâmica - Material e aplicação - 100.0%,"NSTALAÇÕES HIDRO BLOCO
+
+ INSTALÇÕES HIDROSSANITÁRIAS BLOCOS
+COLUNA + RAMAIS : DE ESGOTO, ÁGUA PLUVIAL",,,,,
+2853,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,Serviço de serralharia - manutenção de peças da fôrma metálica,und,250,0,0,200,50000,50000,,6 - 01.000.000.001 - AJUSTE DE FÔRMA - 100.0%,"Mão de obra para - CERÂMICA piso e parede, Inclusive soleira, divbox e
+rejunte com rodapé hall.
+
+Áreas:
+
+M² piso de apartamento:340,80 m² - Dividido por 8 apartamentos: 42,60 m² 
+M² parede de apartamento 177,13 m² (por pavimento) - dividido por 8 apartamentos: 22,14 m² 
+M² hall - 36,51m² por pavimento
+
+Área total:  35.484,16 m²",,,,,
+2858,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,Serviço de topografia mensal ,mês,1,0,0,0,0,0,,"4 - 02.003.001.003 - Terraplenagem - Mobilização, desmobilização, custos administrativos e serviços de topografia - 100.0%",Solicitação de reparo de peças da fôrma metálica.,,,,,
+2858,4 - 01.000.002.010 - Topografia - Locação da Obra - 100.0%,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.002,Topografia - Diária,diária,85,0,0,0,0,0,,4 - 01.000.002.010 - Topografia - Locação da Obra - 100.0%,Solicitação de reparo de peças da fôrma metálica.,,,,,
+2860,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,LOCAÇÃO DE FRETE MERCEDINHA,diária,10,0,0,0,0,0,,4 - 01.002.002.007 - Locação de caminhão munck - 100.0%,"Aditivo contratual da topografia para medição do mês de abril
++ Diárias para o decorrer da obra.",,,,,
+2867,4 - 07.002.011.001 - Assentamento de Kit Porta Pronta - 0.043233895374%,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,MÃO DE OBRA PARA INSTALAÇÃO KIT PORTA PRONTA,un,2313,0,0,0,0,0,,4 - 07.002.011.001 - Assentamento de Kit Porta Pronta - 0.043233895374%,SOLICITAÇÃO DE FRETE,,,,,
+2867,4 - 07.000.008.001 - Assentamento de Kit Porta Pronta - 0.086467790748%,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.002,MÃO DE OBRA PARA APLICAÇÃO DE ALIZARES,un,2313,0,0,0,0,0,,4 - 07.000.008.001 - Assentamento de Kit Porta Pronta - 0.086467790748%,SOLICITAÇÃO DE FRETE,,,,,
+2867,4 - 07.003.010.001 - Assentamento de Kit Porta Pronta - 0.043233895374%,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.003,MÃO DE OBRA PARA APLICAÇÃO DE FERRAGENS,un,2313,0,0,0,0,0,,4 - 07.003.010.001 - Assentamento de Kit Porta Pronta - 0.043233895374%,SOLICITAÇÃO DE FRETE,,,,,
+2872,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,BLOCO - MAT + MDO ESTRUTURA METÁLICA PARA SUSTENTAÇÃO DE COBERTA EM TELHAS DE FIBROCIMENTO,bloco,8,0,0,0,0,0,,4 - 03.006.001.002 - Estrutura metálica para sustentação de coberta - 100.0%,SOLICITAÇÃO DE SERVIÇO DE INSTALAÇÃO DO KIT PORTA PRONTA,,,,,
+2872,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.002,GUARITA - MAT + MDO ESTRUTURA METÁLICA PARA SUSTENTAÇÃO DE COBERTA EM TELHAS DE FIBROCIMENTO,und,1,0,0,0,0,0,,4 - 07.000.010.002 - Estrutura metálica para sustentação de coberta - 100.0%,SOLICITAÇÃO DE SERVIÇO DE INSTALAÇÃO DO KIT PORTA PRONTA,,,,,
+2872,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.003,SALÃO DE FESTAS - MAT + MDO ESTRUTURA METÁLICA PARA SUSTENTAÇÃO DE COBERTA EM TELHAS DE FIBROCIMENTO,und,1,0,0,0,0,0,,4 - 07.001.012.002 - Estrutura metálica para sustentação de coberta - 100.0%,SOLICITAÇÃO DE SERVIÇO DE INSTALAÇÃO DO KIT PORTA PRONTA,,,,,
+2872,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.004,BLOCO - MAT + MDO COBERTA EM TELHAS DE FIBROCIMENTO,bloco,8,0,0,0,0,0,,4 - 03.006.001.001 - Coberta em telhas de fibrocimento - 100.0%,SOLICITAÇÃO DE SERVIÇO DE INSTALAÇÃO DO KIT PORTA PRONTA,,,,,
+2872,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.005,GUARITA - MAT + MDO COBERTA EM TELHAS DE FIBROCIMENTO,und,1,0,0,0,0,0,,4 - 07.000.010.002 - Estrutura metálica para sustentação de coberta - 100.0%,SOLICITAÇÃO DE SERVIÇO DE INSTALAÇÃO DO KIT PORTA PRONTA,,,,,
+2872,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.006,SALÃO DE FESTAS - MAT + MDO COBERTA EM TELHAS DE FIBROCIMENTO,und,1,0,0,0,0,0,,4 - 07.001.012.002 - Estrutura metálica para sustentação de coberta - 100.0%,SOLICITAÇÃO DE SERVIÇO DE INSTALAÇÃO DO KIT PORTA PRONTA,,,,,
+2882,Apropriação de obra,SARAH,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,Fabricaçao de peças para o sistema de segurança da fôrma metálica. ,und,16,0,0,250,4000,4000,,4 - 01.003.002.012 - EPI / EPC - Equipamento de Proteção Individual e Coletivo - 100.0%,SOLICITAÇÃO DE SERVIÇO DE COBERTA COM ESTRUTURA EM ESTRUTURA METÁLICA E TELHA EM FIBROCIMENTO,,,,,
+2883,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,LOCAÇÃO DE GUINDASTE,diária,1,0,0,0,0,0,,4 - 01.002.002.006 - Locação de guindaste - 100.0%,Confecção de 16 peças para o sistema de segurança da fôrma metálica. (Para o elevador e fachada),,,,,
+2885,Apropriação de obra,GEORGE,22 - VILA GONZAGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA,00.000.000.001,Locação de caminhão munck,diária,1,0,0,0,0,0,,4 - 01.002.002.007 - Locação de caminhão munck - 100.0%,SERVIÇO DE DIARIA DE GUINDASTE PARA DESCIDA DO PLATIBANDA - LOCADO NA OBRA PARAÍSO.,,,,,
