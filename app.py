@@ -652,7 +652,7 @@ if menu == "📊  Análise de Contrato":
                 ))
                 fig5.update_layout(
                     title=dict(text="Prazo de Resposta (dias)",font=dict(size=11,color="#4a80aa")),
-                    xaxis=dict(showgrid=False, title=dict(text="dias", font=dict(size=9))),
+                    xaxis=dict(showgrid=False,title=dict(text="dias",font=dict(size=9))),
                     yaxis=dict(showgrid=False),
                     height=H, **PLOTLY_BASE)
                 st.plotly_chart(fig5, use_container_width=True)
@@ -731,22 +731,37 @@ elif menu == "📋  Controle & Exportar":
 
         with tab_edit:
             st.markdown("<div style='font-size:10px;color:#4a80aa;margin-bottom:9px;'>"
-                        "Edite os campos manuais e clique em <strong>Salvar</strong>.</div>",
+                        "Edite os campos manuais e clique em <strong>Salvar</strong>. "
+                        "Use <em>Cancelado</em> em Status Cotação para encerrar sem seguir com a cotação.</div>",
                         unsafe_allow_html=True)
             COLS_EDIT = ["Solicitação","Obra","Serviços","Data Início Desejado",
                          "Início de Cotação","Contrato Assinado","Status Cotação",
                          "Observação 1","Observação 2","Observação 3"]
+
+            # Garante que Status Cotação tem a opção Cancelado
+            STATUS_COTACAO_EDIT = [
+                "","Aguardando decisão da Obra","Solicitação Incompleta",
+                "Em negociação","Em cotação","Fase de Proposta",
+                "Negociação","Fornecedor Definido","Cancelado",
+            ]
+
+            # key dinâmica baseada no filtro evita o bug de removeChild do Streamlit
+            editor_key = f"editor_{f_st}_{f_sl}_{busca}_{len(df_view)}"
+
             df_ed = st.data_editor(
-                df_view[COLS_EDIT].copy(),
+                df_view[COLS_EDIT].reset_index(drop=True).copy(),
                 column_config={
-                    "Solicitação":st.column_config.TextColumn("Nº",disabled=True),
-                    "Obra":st.column_config.TextColumn("Obra",disabled=True),
-                    "Serviços":st.column_config.TextColumn("Serviços",disabled=True),
-                    "Status Cotação":st.column_config.SelectboxColumn("Status Cotação",options=STATUS_COTACAO_OPTS),
-                    "Contrato Assinado":st.column_config.SelectboxColumn("Contrato Assinado",
-                                         options=["","Assinado","Pendente","Cancelado"]),
+                    "Solicitação": st.column_config.TextColumn("Nº", disabled=True),
+                    "Obra":        st.column_config.TextColumn("Obra", disabled=True),
+                    "Serviços":    st.column_config.TextColumn("Serviços", disabled=True),
+                    "Status Cotação": st.column_config.SelectboxColumn(
+                        "Status Cotação", options=STATUS_COTACAO_EDIT),
+                    "Contrato Assinado": st.column_config.SelectboxColumn(
+                        "Contrato Assinado", options=["","Assinado","Pendente","Cancelado"]),
                 },
-                use_container_width=True, hide_index=True, num_rows="fixed",
+                use_container_width=True,
+                hide_index=True,
+                key=editor_key,
             )
             if st.button("💾 Salvar alterações"):
                 idx = df_view.index
